@@ -7,16 +7,34 @@ INSERT INTO turmas (nome)
 VALUES ('Informática 2');
 
 INSERT INTO alunos (nome, turma_id)
-VALUES ('Ana', 1);
+VALUES ('Gabriel', 1);
 
 INSERT INTO alunos (nome, turma_id)
-VALUES ('Bruno', 1);
+VALUES ('Ruan', 1);
 
 INSERT INTO alunos (nome, turma_id)
-VALUES ('Carlos', 2);
+VALUES ('Joao Miguel', 2);
 
 INSERT INTO alunos (nome, turma_id)
-VALUES ('Daniela', 2);
+VALUES ('Cesar', 2);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Joao Pedro', 1);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Abner', 1);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Victor', 1);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Italo', 1);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Davi', 1);
+
+INSERT INTO alunos (nome, turma_id)
+VALUES ('Emannuel', 1);
 
 /////////////////////////////////////
 
